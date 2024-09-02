@@ -16,10 +16,6 @@ Eniac, the online marketplace for Apple-compatible devices, is planning to expan
 
 **2. Delivery Speed:** Ensuring fast delivery standards are met.
 
-## Deliverables
-- Data Analysis Report
-- Recommendations Presentation
-
 ## Tools Used
 **SQL:** For querying and extracting data from databases.
 
@@ -27,14 +23,25 @@ Eniac, the online marketplace for Apple-compatible devices, is planning to expan
 
 **Google Slides:** For preparing and presenting the presentation.
 
+## Deliverables
+- Data Analysis Report
+- Recommendations Presentation
+
 ## Overcoming challenges
 **Team development:** Initial difficulties in assessing the skills of team members were overcome through open communication and effective use of individual strengths.
 
 **Concrete data:** Raw data transformed into clear, actionable insights, to ensure accuracy in analysis.
 
-## Other concerns
-**Interagency collaboration:** Emphasizes the need for strong communication and cross-functional collaboration to align data insights with broader business strategy.
+## Key Takeaways
+**Market Growth:** Brazil’s eCommerce is expected to double by 2024.
 
-**Adaptability:** Quickly adapts to new tools and techniques, essential for timely and accurate research.
+**Product Alignment:** Eniac’s high-end accessories may not fit Magist’s range.
 
-**Future Improvements:** Identified areas for improving data management and visualization methodologies in the future.
+**Revenue Gap:** Magist’s earnings fall short of Eniac’s expectations.
+
+**Regional Disparities:** Sales are uneven, with challenges in northern regions.
+
+## Conclusion
+
+Our study concludes that due to key concerns regarding product fit and scalability, it is advised to consider alternatives such as Mercado Libre, Novatrade, or the fulfillment services of major players like Amazon or Shopify before finalizing a contract with Magist.
+

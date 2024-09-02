@@ -25,6 +25,8 @@ Eniac, the online marketplace for Apple-compatible devices, is planning to expan
 
 **Tableau:** For importing CSV files, creating visualizations, and generating insightful charts.
 
+**Google Slides:** For preparing and presenting the presentation.
+
 ## Overcoming challenges
 **Team development:** Initial difficulties in assessing the skills of team members were overcome through open communication and effective use of individual strengths.
 

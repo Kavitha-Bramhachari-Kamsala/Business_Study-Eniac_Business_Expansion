@@ -3,7 +3,7 @@
 Eniac, the online marketplace for Apple-compatible devices, is planning to expand into Brazil. To facilitate this, Eniac is considering a 3-year partnership with Magist, a Brazilian Saas company that provides centralized procurement management and after-sales services.
 
 ## Eniac
-- **Founded:** 20- 08 in Spain
+- **Founded:** 2008 in Spain
 - **Focus:** Apple-compatible accessories
 - **Expansion Goal:** Enter Brazilian market within a year
 

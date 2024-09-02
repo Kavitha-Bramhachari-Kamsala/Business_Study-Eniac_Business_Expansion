@@ -1,4 +1,4 @@
-#  Project Overview: Magist Expansion Analysis
+#  Project Overview: Expansion of Eniac to the Brazilian Market via Magist
 
 Eniac, the online marketplace for Apple-compatible devices, is planning to expand into Brazil. To facilitate this, Eniac is considering a 3-year partnership with Magist, a Brazilian Saas company that provides centralized procurement management and after-sales services.
 
